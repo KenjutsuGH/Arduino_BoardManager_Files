@@ -1,7 +1,7 @@
 {
     "packages": [
     {
-        "name": "LongduinoBL602",
+        "name": "Longduino",
         "maintainer": "Sipeed",
         "websiteURL": "https://www.sipeed.com",
         "email": "bits@sipeed.com",
