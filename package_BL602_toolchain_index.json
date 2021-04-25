@@ -1,7 +1,7 @@
 {
     "packages": [
     {
-        "name": "Longduino",
+        "name": "LongduinoBL602",
         "maintainer": "Sipeed",
         "websiteURL": "https://www.sipeed.com",
         "email": "bits@sipeed.com",
@@ -11,7 +11,7 @@
         "platforms": [
             {
                 "category": "GD32V",
-                "name": "Longduino(GD32V)",
+                "name": "Longduino(GD32V) BL602 Toolchain",
                 "version": "0.1.1",
                 "url": "https://raw.githubusercontent.com/KenjutsuGH/Longduino_GD32V_macos/main/binaries/longduino-core-0.1.1.zip",
                 "checksum": "SHA-256:5769dc3144fb04d6bc629a30fe5487f7fcbbaa7a1220a400cb5424b00b4acd92",
