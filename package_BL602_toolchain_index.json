@@ -1,7 +1,7 @@
 {
     "packages": [
     {
-        "name": "Longduino",
+        "name": "LongduinoBL602",
         "maintainer": "Sipeed",
         "websiteURL": "https://www.sipeed.com",
         "email": "bits@sipeed.com",
@@ -10,7 +10,7 @@
         },
         "platforms": [
             {
-                "category": "GD32V",
+                "category": "GD32VBL602",
                 "name": "Longduino(GD32V) BL602 Toolchain",
                 "version": "0.1.1",
                 "url": "https://raw.githubusercontent.com/KenjutsuGH/Longduino_GD32V_macos/main/binaries/longduino-core-0.1.1.zip",
@@ -26,17 +26,17 @@
                 ],
                 "toolsDependencies": [
                     {
-                        "packager": "Longduino",
+                        "packager": "LongduinoBL602",
                         "version": "9.2.0",
                         "name": "riscv-nuclei-elf-gcc"
                     },
                     {
-                        "packager": "Longduino",
+                        "packager": "LongduinoBL602",
                         "version": "0.10.0",
                         "name": "openocd"
                     },
                     {
-                        "packager": "Longduino",
+                        "packager": "LongduinoBL602",
                         "version": "0.1.0",
                         "name": "gd32vflash"
                     }
