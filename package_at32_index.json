@@ -12,7 +12,7 @@
         {
           "name": "AT32F403ACGU7 Core Board",
           "architecture": "at32f403a",
-          "version": "0.0.1",
+          "version": "0.0.9",
           "category": "Contributed",
           "url": "https://github.com/WeActStudio/ArduinoCore-AT32F4/archive/refs/heads/main.zip",
           "archiveFileName": "ArduinoCore-AT32F4-main.zip",
@@ -59,10 +59,10 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-x64.tar.gz",
-              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-x64.tar.gz",
-              "checksum": "SHA-256:f2910d5ec4971baee9cd9cd3efe13fc8573b2f1c8185a6f18a7bb7fb3787a60d",
-              "size": "232524897"
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-arm64.tar.gz",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-arm64.tar.gz",
+              "checksum": "SHA-256:85afae936d84b5ed94ad15300d2333d4b0af34b53bbf92283e558a96209d0dd7",
+              "size": "231851100"
             }
           ]
         },
