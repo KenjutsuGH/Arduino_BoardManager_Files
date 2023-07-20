@@ -1,0 +1,139 @@
+{
+  "packages": [
+    {
+      "name": "WCH",
+      "websiteURL": "https://www.wch.cn/",
+      "maintainer": "WCH",
+      "email": "tech@wch.cn",
+      "help": {
+        "online": "https://www.wch.cn/"
+      },
+      "platforms": [
+        {
+          "name": "CH32 MCU EVT Boards",
+          "architecture": "ch32v",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.0",
+          "archiveFileName": "arduino_core_ch32-1.0.0.zip",
+          "checksum": "SHA-256:6FD92A6C0054979A460E6C14AC656FBACAC3BEFAB92F33D4B1B7C0A0E035FD86",
+          "size": "411583",
+          "boards": [
+            {"name": "CH32V20x EVT Board"},
+            {"name": "CH32V00x EVT Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "WCH",
+              "name": "riscv-none-embed-gcc",
+              "version": "8.2.0"
+            },
+            {
+              "packager": "WCH",
+              "name": "openocd",
+              "version": "1.0.0"
+            }
+          ]
+        },
+        {
+          "name": "CH32 MCU EVT Boards",
+          "architecture": "ch32v",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.1",
+          "archiveFileName": "arduino_core_ch32-1.0.1.zip",
+          "checksum": "SHA-256:964E924D3B2CA648DD70F3E1D87BBB2E62869F9ECA23604745060A1B4AA26739",
+          "size": "553015",
+          "boards": [
+            {"name": "CH32X035 EVT Board"},		  
+            {"name": "CH32V20x EVT Board"},
+            {"name": "CH32V00x EVT Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "WCH",
+              "name": "riscv-none-embed-gcc",
+              "version": "8.2.0"
+            },
+            {
+              "packager": "WCH",
+              "name": "openocd",
+              "version": "1.0.0"
+            }
+          ]
+        },
+        {
+          "name": "CH32 MCU EVT Boards",
+          "architecture": "ch32v",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.2",
+          "archiveFileName": "arduino_core_ch32-1.0.2.zip",
+          "checksum": "SHA-256:C7CF46D0AA447B78FBF239251085D009B47F436B3A22C14AC116D7FA4E492397",
+          "size": "583402",
+          "boards": [
+            {"name": "CH32X035 EVT Board"},		  
+            {"name": "CH32V20x EVT Board"},
+            {"name": "CH32V00x EVT Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "WCH",
+              "name": "riscv-none-embed-gcc",
+              "version": "8.2.0"
+            },
+            {
+              "packager": "WCH",
+              "name": "openocd",
+              "version": "1.0.0"
+            }
+          ]
+        }		
+      ],
+      "tools": [
+        {
+          "name": "riscv-none-embed-gcc",
+          "version": "8.2.0",
+          "systems":
+          [
+            {
+              "host": "i686-mingw32",
+              "url": "https://codeload.github.com/openwch/risc-none-embed-gcc/zip/refs/tags/8.2.0",
+              "archiveFileName": "risc-none-embed-gcc-8.2.0.zip",
+              "checksum": "SHA-256:43DF880A1908C873A8B6AB115568C6BEAEEC41DDADEB5202703B6AA9FDE50626",
+              "size": "267710516"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/download/v12.2.0-3/xpack-riscv-none-elf-gcc-12.2.0-3-darwin-x64.tar.gz",
+              "archiveFileName": "xpack-riscv-none-elf-gcc-12.2.0-3-darwin-x64.tar.gz",
+              "checksum": "SHA-256:f277d63d7540f50a57cc1df98911a5721e824f84ad22da37d81fa044bab18126",
+              "size": "464373112"
+            },            
+          ]
+        },
+        {
+          "name": "openocd",
+          "version": "1.0.0",
+          "systems":
+          [
+            {
+              "host": "i686-mingw32",
+              "url": "https://codeload.github.com/openwch/openocd_wch/zip/refs/tags/1.0.0",
+              "archiveFileName": "openocd_wch-1.0.0.zip",
+              "checksum": "SHA-256:F1E54FD7F253CF37E7F4581088FF62DFDFDAB899B9D3182C36426F6146AE0465",
+              "size": "9604774"
+            },
+            {
+              "host": "host": "x86_64-apple-darwin",
+              "url": "https://github.com/KenjutsuGH/Arduino_BoardManager_Files/raw/main/openocd_wch-1.0.0.zip",
+              "archiveFileName": "openocd_wch-1.0.0.zip",
+              "checksum": "SHA-256:276bd2d9eb3ea4119e42e32b2ac29da38568e47bf4351cf0fe1f3f423cff7c3e",
+              "size": "10807502"
+            }            
+          ]
+        }
+      ]
+    }
+  ]
+}
