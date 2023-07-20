@@ -128,8 +128,8 @@
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/KenjutsuGH/Arduino_BoardManager_Files/raw/main/openocd_wch-1.0.0.zip",
               "archiveFileName": "openocd_wch-1.0.0.zip",
-              "checksum": "SHA-256:276bd2d9eb3ea4119e42e32b2ac29da38568e47bf4351cf0fe1f3f423cff7c3e",
-              "size": "10807502"
+              "checksum": "SHA-256:a4be5b1086842168149159d9b67b844be427f1212c5933e86bdaab8de4d16ddb",
+              "size": "10806584"
             }            
           ]
         }
