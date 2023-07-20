@@ -105,10 +105,10 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/download/v12.2.0-3/xpack-riscv-none-elf-gcc-12.2.0-3-darwin-x64.tar.gz",
-              "archiveFileName": "xpack-riscv-none-elf-gcc-12.2.0-3-darwin-x64.tar.gz",
-              "checksum": "SHA-256:f277d63d7540f50a57cc1df98911a5721e824f84ad22da37d81fa044bab18126",
-              "size": "464373112"
+              "url": "https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/download/v8.2.0-3.1/xpack-riscv-none-embed-gcc-8.2.0-3.1-darwin-x64.tgz",
+              "archiveFileName": "xpack-riscv-none-embed-gcc-8.2.0-3.1-darwin-x64.tar.gz",
+              "checksum": "SHA-256:48ece50b7272a8e49e56e37f54f9962f93dce4ca44f1bb4c8113fab0230fbdf1",
+              "size": "214715632"
             }            
           ]
         },
