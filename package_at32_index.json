@@ -38,7 +38,7 @@
             {
               "packager": "WeActStudio",
               "name": "ArteryOpenOCD",
-              "version": "0.0.1"
+              "version": "0.1100.220911"
             }
           ]
         }
@@ -100,28 +100,28 @@
         },
         {
           "name": "ArteryOpenOCD",
-          "version": "0.0.1",
+          "version": "0.1100.220911",
           "systems": [
             {
               "host": "i686-mingw32",
               "url": "https://github.com/ArteryTek/openocd/releases/download/v1.0.0/tool-openocd-at32-0.1100.220911.tar.gz",
               "archiveFileName": "tool-openocd-at32-0.1100.220911.tar.gz",
-              "size": "3890476",
-              "checksum": "SHA-256:785979348d5c6b9451650d2ba22233825f362d46adfdfb1e4794e3866b4d034f"
+              "size": "5765955",
+              "checksum": "SHA-256:b7b32171a37b1971ba429b0335552705190fe9d4a8a6c3b647740ef337f8171e"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "url": "https://github.com/ArteryTek/openocd/releases/download/v1.0.0/tool-openocd-at32-0.1100.220911.tar.gz",
               "archiveFileName": "tool-openocd-at32-0.1100.220911.tar.gz",
-              "size": "14810873",
-              "checksum": "SHA-256:f84a0a2156a6b4bb8e8ccbc6d9b297517a526dfc857c4789176a906c91c26f77"
+              "size": "5765955",
+              "checksum": "SHA-256:b7b32171a37b1971ba429b0335552705190fe9d4a8a6c3b647740ef337f8171e"
             },
             {
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/ArteryTek/openocd/releases/download/v1.0.0/tool-openocd-at32-0.1100.220911.tar.gz",
               "archiveFileName": "tool-openocd-at32-0.1100.220911.tar.gz",
-              "size": "14810873",
-              "checksum": "SHA-256:f84a0a2156a6b4bb8e8ccbc6d9b297517a526dfc857c4789176a906c91c26f77"
+              "size": "5765955",
+              "checksum": "SHA-256:b7b32171a37b1971ba429b0335552705190fe9d4a8a6c3b647740ef337f8171e"
             }            
           ]
         }
